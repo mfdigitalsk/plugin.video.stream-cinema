@@ -27,7 +27,7 @@
         </summary>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <source>https://github.com/bbaronSVK/plugin.video.stream-cinema.git</source>
+        <source>https://github.com/mfdigitalsk/plugin.video.stream-cinema.git</source>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
